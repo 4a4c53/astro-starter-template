@@ -1,0 +1,25 @@
+<emoji> <type>(<scope>): <short summary>
+
+<optional longer description>
+
+# Common types:
+# feat     → A new feature
+# fix      → A bug fix
+# chore    → Routine task (build, dependencies, etc.)
+# docs     → Documentation updates
+# style    → Formatting only (spaces, commas, etc.)
+# refactor → Code change that neither fixes a bug nor adds a feature
+# perf     → Performance improvement
+# test     → Adding or updating tests
+# ci       → CI/CD configuration
+# init     → Initial project setup
+
+# Examples:
+# ✨ feat(components): add responsive navbar
+# 🐛 fix(styles): correct padding in footer
+# 📝 docs: update README with project structure
+# 🔧 chore(deps): upgrade Astro to latest version
+
+# Line 1: max 72 characters (concise summary)
+# Line 2: blank
+# From line 3: longer description, if necessary
